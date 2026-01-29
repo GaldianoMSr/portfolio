@@ -1,7 +1,7 @@
 # Professional Portfolio
 
 **Michael Galdiano** – Senior AI Quality & Multimodal Evaluation Specialist  
-Philippines | +63 939 508 850 | mrgaldiano@yahoo.com  
+Philippines | +639 393 508 850 | mrgaldiano@yahoo.com  
 Professional Portfolio & Evaluation Samples: Available upon request  
 
 ---
