@@ -76,3 +76,5 @@ Everyday decisions and disciplined workflow practices bridge traditional creativ
 ## Future Case Studies
 
 Additional AI workflows, corporate project implementations, and product evaluation case studies will be added as projects evolve.
+
+
