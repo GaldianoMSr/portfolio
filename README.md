@@ -14,11 +14,11 @@ Senior AI Quality and Multimodal Evaluation Specialist with over two decades of 
 
 ## Core Competencies
 
-- **Human-in-the-Loop Evaluation** – Accuracy-first assessment and final decision-making for AI-assisted systems.  
-- **Multimodal Content Assessment** – Evaluation of text, image, and multimedia outputs for relevance, coherence, and alignment.  
-- **Content Integrity & Standards Enforcement** – Consistent application of quality standards across large-scale pipelines.  
-- **Project Planning & Implementation** – Structuring workflows, anticipating challenges, and delivering predictable results.  
-- **Creative Direction & Photography Expertise** – Nearly 3 decades of professional visual storytelling, pre-visualization, and high-quality production.  
+- **Human-in-the-Loop Evaluation** – Accuracy-first assessment and final decision-making for AI-assisted systems  
+- **Multimodal Content Assessment** – Evaluation of text, image, and multimedia outputs for relevance, coherence, and alignment  
+- **Content Integrity & Standards Enforcement** – Consistent application of quality standards across large-scale pipelines  
+- **Project Planning & Implementation** – Structuring workflows, anticipating challenges, and delivering predictable results  
+- **Creative Direction & Photography Expertise** – Nearly 3 decades of professional visual storytelling, pre-visualization, and high-quality production  
 
 ---
 
@@ -52,24 +52,24 @@ This repository is intentionally simple, clean, and easy to review, respecting b
 **Role:** Lead evaluator, workflow planner, and strategist of modular AI content.
 
 **Process:**  
-1. Collected client product images including clothing, shoes, and accessories.  
-2. Applied a structured AI workflow to generate realistic, fashion-forward visuals while maintaining brand safety.  
-3. Integrated human-in-the-loop evaluation to ensure outputs met accuracy, consistency, and stylistic standards.  
-4. Optimized content for engagement and measurable impact across social platforms.
+1. Collected client product images including clothing, shoes, and accessories  
+2. Applied a structured AI workflow to generate realistic, fashion-forward visuals while maintaining brand safety  
+3. Integrated human-in-the-loop evaluation to ensure outputs met accuracy, consistency, and stylistic standards  
+4. Optimized content for engagement and measurable impact across social platforms  
 
 **Outcome:**  
 - **18.9K views** in less than 24 hours  
 - Consistent, high-quality visuals with strong aesthetic and brand alignment  
-- Workflow proved to be reproducible and scalable for future projects
+- Workflow proved to be reproducible and scalable for future projects  
 
 **Lessons Learned:**  
 - Stepwise pre-visualization and structured planning ensures predictable, reliable AI outputs  
 - Human judgment remains critical in refining ambiguous or complex outputs  
 - Modularity in workflow allows fast iteration without sacrificing quality  
-- Daily decision-making and problem-solving skills directly impact workflow efficiency and results
+- Daily decision-making and problem-solving skills directly impact workflow efficiency and results  
 
 **Takeaway:**  
-Everyday decisions and disciplined workflow practices bridge traditional creative expertise with AI-assisted production, delivering measurable, high-quality outcomes while remaining fully professional and discreet.
+Everyday decisions and disciplined workflow practices bridge traditional creative expertise with AI-assisted production, delivering measurable, high-quality outcomes while remaining fully professional and discreet
 
 ---
 
