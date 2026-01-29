@@ -8,7 +8,7 @@ Professional Portfolio & Evaluation Samples: Available upon request
 
 ## Professional Summary
 
-Senior AI Quality and Multimodal Evaluation Specialist with over two decades of experience in accuracy-first judgment, pipeline-driven evaluation, and high-volume content management. Combines traditional creative discipline in photography and visual direction with modern AI-assisted workflows, ensuring consistent, high-quality outputs across text, image, and multimodal systems. Known for calm, stepwise decision-making, ethical oversight, and seamless alignment of creative intent with technical execution.
+Senior AI Quality and Multimodal Evaluation Specialist with over 20 years of experience combining traditional creative discipline in photography and visual direction with modern AI-assisted workflows. Skilled in accuracy-first judgment, pipeline-driven evaluation, and structured project planning. Known for calm, stepwise decision-making, ethical oversight, and delivering consistent, high-quality outputs across text, image, and multimodal systems.
 
 ---
 
@@ -32,24 +32,13 @@ Senior AI Quality and Multimodal Evaluation Specialist with over two decades of 
 
 ---
 
-## What You’ll Find Here
-
-- Curated project samples  
-- Process-oriented breakdowns when applicable  
-- Supporting materials relevant to professional evaluation  
-- Case studies demonstrating workflow, methodology, and measurable results  
-
-This repository is intentionally simple, clean, and easy to review, respecting both time and context. Additional materials and detailed walkthroughs are available upon request.
-
----
-
 ## Selected Case Study
 
 ### Modular AI Fashion Workflow – Discreet Client
 
-**Objective:** Demonstrate effective AI-assisted workflows for producing high-quality, brand-safe fashion visuals for a high-profile client.
+**Objective:** Demonstrate effective AI-assisted workflows for producing high-quality, brand-safe fashion visuals for a high-profile client.  
 
-**Role:** Lead evaluator, workflow planner, and strategist of modular AI content.
+**Role:** Lead evaluator, workflow planner, and strategist of modular AI content.  
 
 **Process:**  
 1. Collected client product images including clothing, shoes, and accessories  
@@ -58,7 +47,7 @@ This repository is intentionally simple, clean, and easy to review, respecting b
 4. Optimized content for engagement and measurable impact across social platforms  
 
 **Outcome:**  
-- **18.9K views** in less than 24 hours  
+- 18.9K views in less than 24 hours  
 - Consistent, high-quality visuals with strong aesthetic and brand alignment  
 - Workflow proved to be reproducible and scalable for future projects  
 
@@ -69,7 +58,7 @@ This repository is intentionally simple, clean, and easy to review, respecting b
 - Daily decision-making and problem-solving skills directly impact workflow efficiency and results  
 
 **Takeaway:**  
-Everyday decisions and disciplined workflow practices bridge traditional creative expertise with AI-assisted production, delivering measurable, high-quality outcomes while remaining fully professional and discreet
+Everyday decisions and disciplined workflow practices bridge traditional creative expertise with AI-assisted production, delivering measurable, high-quality outcomes while remaining fully professional and discreet.
 
 ---
 
@@ -77,4 +66,9 @@ Everyday decisions and disciplined workflow practices bridge traditional creativ
 
 Additional AI workflows, corporate project implementations, and product evaluation case studies will be added as projects evolve.
 
+---
 
+## Contact
+
+- Email: [mrgaldiano@yahoo.com](mailto:mrgaldiano@yahoo.com)  
+- GitHub: [https://github.com/GaldianoMSR](https://github.com/GaldianoMSR)  
